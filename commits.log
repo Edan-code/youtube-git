@@ -1,0 +1,98 @@
+commit fd9b0c75cf212e64cf1571ca5f659414e429b78c
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Sun Feb 23 02:08:48 2025 -0500
+
+    Agregando 2 párrafos
+
+commit f66a928c7d3637edb95214e719717f7859521ea3
+Merge: ca2275a d9ccb96
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Sun Feb 23 02:03:24 2025 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de incicio
+
+commit ca2275a0e43ab2aa3784e59c55ce1ff6f2a44a23
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Sun Feb 23 01:16:45 2025 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d9ccb968efecda2e95cba4926d4078ef6e183c7b
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Sun Feb 23 01:16:45 2025 -0500
+
+    Agregando las estaciones del año
+
+commit 285e5bf3ec2b4f5a91c8b9e1a1a5c1b7031e1498
+Merge: 6289722 c9dcad7
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Sat Feb 22 23:56:14 2025 -0500
+
+    Resolviendo conflicto merge main/html en el docmento index.html
+
+commit c9dcad75d1ee07bd85f7bf965fde823c7efcc0c5
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Sat Feb 22 23:42:56 2025 -0500
+
+    Agregando index.js al index.html
+
+commit 628972203c979c3a98ef6b2e6eff51c60b0c7243
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Sat Feb 22 23:36:16 2025 -0500
+
+    Agregando style.css al index.html
+
+commit cae8ae6c330561e21ad4e077b788e6f9666dac57
+Merge: 7904731 e0df678
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Fri Feb 21 01:20:49 2025 -0500
+
+    Merge branch 'js'
+
+commit e0df67839b7f8efdc675f71fa1076426ca5d26fd
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Thu Feb 20 23:33:19 2025 -0500
+
+    Creando index.js
+
+commit 7904731b7846692d9f862cd5c695a2b798e7a523
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Thu Feb 20 23:24:53 2025 -0500
+
+    Creando style.css
+
+commit 2d7a3722189c724aa03e384f234cce7732d15fa1
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Thu Feb 20 23:14:31 2025 -0500
+
+    Creando index.html
+
+commit 354dd5981683078908cb22885b08ca8f8a3e2228
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Thu Feb 20 17:15:19 2025 -0500
+
+    Ignorando archivos .exe
+
+commit bdcef27af06a3c1f2ca97571a0bdda571f114467
+Author: Edan-code <edan09670@gmail.com>
+Date:   Wed Feb 19 00:04:52 2025 -0500
+
+    Creando licencia del repositorio
+
+commit d84f3f33cd2e558f68e29e51eae47c8053b549dc
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Tue Feb 18 22:55:12 2025 -0500
+
+    Agregando más contenido al README
+
+commit 0d1823aa4e4587f226c5d436319b281edf22a410
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Tue Feb 18 13:38:57 2025 -0500
+
+    Agregando contenido inicial al README
+
+commit 0a15de5ee8be148cdae7fb1c503b8d13b6f712a0
+Author: Edan MayMac <edan09670@gmail.com>
+Date:   Tue Feb 18 13:30:07 2025 -0500
+
+    Primer commit 😊
